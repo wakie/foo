@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Birds (class Aves or clade Avialae) are feathered, winged, two-legged, warm-blooded, egg-laying vertebrates.
+=======
+Birds (class Aves or clade Avialae) are feathered, winged, two-legged, warm-blooded, egg-laying vertebrates.
+>>>>>>> a1e5a1b96a276af6f5fdd90c3ce51dfc71a621b0
